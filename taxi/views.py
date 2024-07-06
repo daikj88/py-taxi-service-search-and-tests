@@ -11,7 +11,8 @@ from .forms import (
     DriverLicenseUpdateForm,
     CarForm,
     DriverUsernameSearchForm,
-    CarModelSearchForm, ManufacturerNameSearchForm
+    CarModelSearchForm,
+    ManufacturerNameSearchForm,
 )
 
 
